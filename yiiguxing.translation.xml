@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="leak" />
       <item value="inancial" />
       <item value="statistic" />
       <item value="attendance" />
