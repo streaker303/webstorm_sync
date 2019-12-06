@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistic" />
+      <item value="attendance" />
       <item value="Busting" />
       <item value="cache Busting" />
       <item value="get device Info" />
