@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get device Info" />
       <item value="all Books" />
       <item value="default" />
       <item value="semver" />
