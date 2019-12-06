@@ -28,7 +28,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="des" value="/**&#10;* @DESC:&#10;* @author: WangJian&#10;* @Time: $date$&#10;*/" toReformat="false" toShortenFQNames="true">
+  <template name="des" value="/**&#10;* @DESC:&#10;* @author: WangJian&#10;* @Time: $date$&#10;*/" description="" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
