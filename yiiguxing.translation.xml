@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assets Public Path" />
+      <item value="assets Sub Directory" />
+      <item value="assets Root" />
       <item value="user Delete Dialog" />
       <item value="获取所有角色" />
       <item value="get Roles All" />
@@ -24,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
