@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="swiper-slide" />
+      <item value="swiper-inner" />
+      <item value="entrance event" />
+      <item value="event" />
+      <item value="entrance" />
       <item value="assets Public Path" />
       <item value="assets Sub Directory" />
       <item value="assets Root" />
@@ -27,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
