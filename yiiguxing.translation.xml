@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resource Ids" />
       <item value="autocomplete" />
       <item value="attendance-dialog" />
       <item value="add User Dialog" />
       <item value="sys Id" />
       <item value="cur Active" />
       <item value="permissions" />
-      <item value="resource Ids" />
       <item value="add User Form" />
       <item value="link Dialog" />
       <item value="multiple Table" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
