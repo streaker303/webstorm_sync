@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="junction Type" />
       <item value="添加字段限制" />
       <item value="contraint Name List" />
       <item value="sfractp Type" />
       <item value="contraint Name" />
-      <item value="junction Type" />
       <item value="channel" />
       <item value="protocal" />
       <item value="timestamp" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
