@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="channel temp" />
       <item value="sfractp Type" />
       <item value="add Field Restrictions" />
       <item value="condition Name" />
@@ -50,12 +51,11 @@
       <item value="获取所有角色" />
       <item value="get Roles All" />
       <item value="index Match User Method" />
-      <item value="production Gzip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
