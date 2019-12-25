@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="部署环境" />
       <item value="attendance" />
       <item value="index Method" />
       <item value="search Assets" />
@@ -50,11 +51,10 @@
       <item value="event" />
       <item value="entrance" />
       <item value="assets Public Path" />
-      <item value="assets Sub Directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
+        <entry key="CHINESE" value="69" />
         <entry key="ENGLISH" value="69" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
