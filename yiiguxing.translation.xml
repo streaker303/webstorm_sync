@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转换" />
       <item value="del Operator Data" />
       <item value="部署环境" />
       <item value="attendance" />
@@ -50,12 +51,11 @@
       <item value="swiper-inner" />
       <item value="entrance event" />
       <item value="event" />
-      <item value="entrance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="70" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
