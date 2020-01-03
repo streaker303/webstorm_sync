@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dotted Line" />
       <item value="list-tips" />
       <item value="exclude" />
       <item value="after Contraint Name" />
@@ -50,12 +51,11 @@
       <item value="prev Pwd" />
       <item value="get New Sys Menus" />
       <item value="init Animation" />
-      <item value="swiper-slide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
