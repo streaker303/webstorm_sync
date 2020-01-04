@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multi Field Constraint" />
       <item value="dotted Line" />
       <item value="list-tips" />
       <item value="exclude" />
@@ -50,12 +51,11 @@
       <item value="rev Pwd" />
       <item value="prev Pwd" />
       <item value="get New Sys Menus" />
-      <item value="init Animation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
