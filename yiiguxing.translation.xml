@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="production Tip" />
+      <item value="lodash" />
       <item value="immediate" />
       <item value="attendance" />
       <item value="multiple Selection" />
@@ -49,17 +51,16 @@
       <item value="angle Btn" />
       <item value="params Data" />
       <item value="query Data" />
-      <item value="total Elements" />
-      <item value="total Pages" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
