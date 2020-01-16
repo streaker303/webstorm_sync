@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unique" />
+      <item value="bell" />
       <item value="native Back" />
       <item value="navigator" />
       <item value="get device Info" />
@@ -49,13 +51,11 @@
       <item value="cur Active" />
       <item value="permissions" />
       <item value="add User Form" />
-      <item value="link Dialog" />
-      <item value="multiple Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
