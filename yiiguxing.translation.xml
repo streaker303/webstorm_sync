@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inspection" />
+      <item value="intelligence" />
       <item value="get New Sys Menus" />
       <item value="multiple Selection" />
       <item value="say Inner Times" />
@@ -49,12 +51,10 @@
       <item value="Unterminated statement " />
       <item value="模拟数据" />
       <item value="handle Size Change" />
-      <item value="resource Ids" />
-      <item value="autocomplete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
+        <entry key="CHINESE" value="93" />
         <entry key="ENGLISH" value="93" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
