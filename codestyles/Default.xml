@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,export default,script" />
+    <option name="HTML_QUOTE_STYLE" value="Single" />
   </HTMLCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
