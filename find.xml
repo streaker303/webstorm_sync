@@ -9,6 +9,18 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.html" />
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.htm</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.sht</mask>
+    <mask>*.ng</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
