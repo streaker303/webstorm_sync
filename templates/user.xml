@@ -34,5 +34,5 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="set" value="setTimeout(() =&gt; {&#10;&#10;}, 0)" toReformat="false" toShortenFQNames="true" />
+  <template name="set" value="setTimeout(() =&gt; {&#10;&#10;}, 0)" description="" toReformat="false" toShortenFQNames="true" />
 </templateSet>
