@@ -40,13 +40,13 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="watch" value="watch: {&#10;  '$end$': {&#10;    handler (newVal, oldVal) {&#10;      if (!newVal) {&#10;        $end$&#10;      }&#10;    }&#10;  }&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="watch" value="watch: {&#10;  '$end$': {&#10;    handler (newVal, oldVal) {&#10;      if (!newVal) {&#10;        $end$&#10;      }&#10;    }&#10;  }&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="$message" value=" this.$message({&#10;  message: '$end$',&#10;  type: 'success'&#10;})" toReformat="false" toShortenFQNames="true">
+  <template name="$message" value=" this.$message({&#10;  message: '$end$',&#10;  type: 'success'&#10;})" description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
