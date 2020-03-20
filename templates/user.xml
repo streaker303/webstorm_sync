@@ -17,7 +17,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="v-m" value="let vm = new Vue({&#10;  el: '#app',&#10;  data: {&#10;    msg: '$end$',&#10;  }&#10;});" description="" toReformat="false" toShortenFQNames="true">
+  <template name="vm" value="let vm = new Vue({&#10;  el: '#app',&#10;  data: {&#10;    msg: '$end$',&#10;  }&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
@@ -34,5 +34,22 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="set" value="setTimeout(() =&gt; {&#10;&#10;}, 0)" description="" toReformat="false" toShortenFQNames="true" />
+  <template name="set" value="setTimeout(() =&gt; {&#10;  $end$&#10;}, 0)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="watch" value="watch: {&#10;  '$end$': {&#10;    handler (newVal, oldVal) {&#10;      if (!newVal) {&#10;        $end$&#10;      }&#10;    }&#10;  }&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="$message" value=" this.$message({&#10;  message: '$end$',&#10;  type: 'success'&#10;})" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
