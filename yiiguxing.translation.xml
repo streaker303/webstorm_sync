@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="secure" />
       <item value="multiple Table" />
       <item value="inspection" />
       <item value="intelligence" />
@@ -50,12 +51,11 @@
       <item value="protocal" />
       <item value="timestamp" />
       <item value="Unterminated statement " />
-      <item value="模拟数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
