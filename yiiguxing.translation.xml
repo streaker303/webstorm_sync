@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="render Bullet" />
       <item value="emphasis" />
       <item value="category" />
       <item value="assets Public Path" />
@@ -50,12 +51,11 @@
       <item value="condition Name" />
       <item value="junction Type" />
       <item value="contraint List" />
-      <item value="contraint Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
