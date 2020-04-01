@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drill" />
+      <item value="defense" />
       <item value="discipline" />
       <item value="render Bullet" />
       <item value="emphasis" />
@@ -49,13 +51,11 @@
       <item value="channel temp" />
       <item value="sfractp Type" />
       <item value="add Field Restrictions" />
-      <item value="condition Name" />
-      <item value="junction Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
