@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enterprise Name" />
       <item value="drill" />
       <item value="defense" />
       <item value="discipline" />
@@ -50,12 +51,11 @@
       <item value="Accumulate options" />
       <item value="channel temp" />
       <item value="sfractp Type" />
-      <item value="add Field Restrictions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
