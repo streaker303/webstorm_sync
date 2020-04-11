@@ -150,7 +150,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="vsub" value="submitForm(formName) {&#10;  this.$refs[formName].validate((valid) =&gt; {&#10;    if (valid) {&#10;      $name$ = false&#10;    } else {&#10;      console.log('error submit!!');&#10;      return false;&#10;    }&#10;  });&#10;}," toReformat="false" toShortenFQNames="true">
+  <template name="vsub" value="submitForm(formName) {&#10;  this.$refs[formName].validate((valid) =&gt; {&#10;    if (valid) {&#10;      $name$ = false&#10;    } else {&#10;      console.log('error submit!!');&#10;      return false;&#10;    }&#10;  });&#10;}," description="" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
