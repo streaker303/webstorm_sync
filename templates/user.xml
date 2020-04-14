@@ -52,7 +52,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="switch" value="switch ($start$) {&#10;  case 0:&#10;    &#10;    break;&#10;  case 1:&#10;    &#10;    break;&#10;  case 2:&#10;    &#10;    break;&#10;  default:&#10;  &#10;    break;&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="switch" value="switch ($start$) {&#10;  case 0:&#10;    &#10;    break;&#10;  case 1:&#10;    &#10;    break;&#10;  case 2:&#10;    &#10;    break;&#10;  default:&#10;  &#10;    break;&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -60,7 +60,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="submit" value="submitForm(formName) {&#10;  this.$refs[formName].validate((valid) =&gt; {&#10;    if (valid) {&#10;      $end$;&#10;    } else {&#10;      console.log('error submit!!');&#10;      return false;&#10;    }&#10;  });&#10;}," toReformat="false" toShortenFQNames="true">
+  <template name="submit" value="submitForm(formName) {&#10;  this.$refs[formName].validate((valid) =&gt; {&#10;    if (valid) {&#10;      $end$;&#10;    } else {&#10;      console.log('error submit!!');&#10;      return false;&#10;    }&#10;  });&#10;}," description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
