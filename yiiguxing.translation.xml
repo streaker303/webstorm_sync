@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="response Type" />
+      <item value="export Stream Data" />
       <item value="categories" />
       <item value="channel temp 2" />
       <item value="emphasis" />
@@ -49,13 +51,11 @@
       <item value="转换" />
       <item value="del Operator Data" />
       <item value="部署环境" />
-      <item value="index Method" />
-      <item value="search Assets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
