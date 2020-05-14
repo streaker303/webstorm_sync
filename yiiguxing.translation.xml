@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="八" />
+      <item value="8" />
       <item value="response Type" />
       <item value="export Stream Data" />
       <item value="categories" />
@@ -49,13 +51,11 @@
       <item value="exclude" />
       <item value="after Contraint Name" />
       <item value="转换" />
-      <item value="del Operator Data" />
-      <item value="部署环境" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="118" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
