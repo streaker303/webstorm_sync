@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle Exceed" />
       <item value="thumbs" />
       <item value="八" />
       <item value="8" />
@@ -50,12 +51,11 @@
       <item value="dotted Line" />
       <item value="list-tips" />
       <item value="exclude" />
-      <item value="after Contraint Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
