@@ -17,7 +17,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="vm" value="let vm = new Vue({&#10;  el: '#app',&#10;  data: {&#10;    msg: '$end$',&#10;  }&#10;});" description="" toReformat="false" toShortenFQNames="true">
+  <template name="vm" value="let vm = new Vue({&#10;  el: &quot;#app&quot;,&#10;  data: {&#10;    msg: &quot;$end$&quot;,&#10;  }&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
@@ -40,13 +40,13 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="watch" value="watch: {&#10;  '$end$': {&#10;    handler (newVal, oldVal) {&#10;      if (!newVal) {&#10;        $end$&#10;      }&#10;    }&#10;  }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="watch" value="watch: {&#10;  &quot;$end$&quot;: {&#10;    handler (newVal, oldVal) {&#10;      if (!newVal) {&#10;        $end$&#10;      }&#10;    }&#10;  }&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="$message" value=" this.$message({&#10;  message: '$end$',&#10;  type: 'success'&#10;})" description="" toReformat="false" toShortenFQNames="true">
+  <template name="$message" value=" this.$message({&#10;  message: &quot;$end$&quot;,&#10;  type: &quot;success&quot;&#10;})" description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
@@ -60,7 +60,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="submit" value="submitForm(formName) {&#10;  this.$refs[formName].validate((valid) =&gt; {&#10;    if (valid) {&#10;      $end$;&#10;    } else {&#10;      console.log('error submit!!');&#10;      return false;&#10;    }&#10;  });&#10;}," description="" toReformat="false" toShortenFQNames="true">
+  <template name="submit" value="submitForm(formName) {&#10;  this.$refs[formName].validate((valid) =&gt; {&#10;    if (valid) {&#10;      $end$;&#10;    } else {&#10;      console.log(&quot;error submit!!&quot;);&#10;      return false;&#10;    }&#10;  });&#10;}," description="" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
