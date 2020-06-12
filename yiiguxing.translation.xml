@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reference" />
       <item value="emphasis" />
       <item value="symbol Offset" />
       <item value="y Axis" />
@@ -50,12 +51,11 @@
       <item value="get device Info" />
       <item value="production Tip" />
       <item value="lodash" />
-      <item value="immediate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
