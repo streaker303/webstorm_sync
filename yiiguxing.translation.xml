@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="emphasis" />
+      <item value="symbol Offset" />
+      <item value="y Axis" />
+      <item value="axis Line" />
+      <item value="axis Label" />
+      <item value="roam" />
       <item value="Coord Map" />
       <item value="hack" />
       <item value="convert Data" />
@@ -13,7 +19,6 @@
       <item value="export Stream Data" />
       <item value="categories" />
       <item value="channel temp 2" />
-      <item value="emphasis" />
       <item value="params" />
       <item value="is-leaf" />
       <item value="enterprise Name" />
@@ -46,19 +51,15 @@
       <item value="production Tip" />
       <item value="lodash" />
       <item value="immediate" />
-      <item value="attendance" />
-      <item value="stripe" />
-      <item value="tooltip" />
-      <item value="attendance-list" />
-      <item value="open Channel origin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="FRENCH" value="5" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="1" />
