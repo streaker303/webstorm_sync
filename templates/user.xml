@@ -1,58 +1,58 @@
 <templateSet group="user">
-  <template name="con" value="console.log($end$)" description="console.log" toReformat="false" toShortenFQNames="true">
+  <template name="con" value="console.log($end$)" description="console.log" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="=&gt;" value="($end$) =&gt; {$end$}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="=&gt;" value="($end$) =&gt; {$end$}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="scc" value="&lt;script src=&quot;$end$&quot;&gt;&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="scc" value="&lt;script src=&quot;$end$&quot;&gt;&lt;/script&gt;" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="vm" value="let vm = new Vue({&#10;  el: &quot;#app&quot;,&#10;  data: {&#10;    msg: &quot;$end$&quot;,&#10;  }&#10;});" description="" toReformat="false" toShortenFQNames="true">
+  <template name="vm" value="let vm = new Vue({&#10;  el: &quot;#app&quot;,&#10;  data: {&#10;    msg: &quot;$end$&quot;,&#10;  }&#10;});" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="$document" value="$(document).ready(function () {&#10;   &#10;})" description="" toReformat="false" toShortenFQNames="true">
+  <template name="$document" value="$(document).ready(function () {&#10;   &#10;})" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="des" value="/**&#10;* @Description:&#10;* @author: WangJian&#10;* @Time: $date$&#10;*/" description="" toReformat="false" toShortenFQNames="true">
+  <template name="des" value="/**&#10;* @Description:&#10;* @author: WangJian&#10;* @Time: $date$&#10;*/" description="" toReformat="true" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="set" value="setTimeout(() =&gt; {&#10;  $end$&#10;}, 0)" description="" toReformat="false" toShortenFQNames="true">
+  <template name="set" value="setTimeout(() =&gt; {&#10;  $end$&#10;}, 0)" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="watch" value="watch: {&#10;  &quot;$end$&quot;: {&#10;    handler (newVal, oldVal) {&#10;      if (!newVal) {&#10;        $end$&#10;      }&#10;    }&#10;  }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="watch" value="watch: {&#10;  &quot;$end$&quot;: {&#10;    handler (newVal, oldVal) {&#10;      if (!newVal) {&#10;        $end$&#10;      }&#10;    }&#10;  }&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="$message" value=" this.$message({&#10;  message: &quot;$end$&quot;,&#10;  type: &quot;success&quot;&#10;})" description="" toReformat="false" toShortenFQNames="true">
+  <template name="$message" value=" this.$message({&#10;  message: &quot;$end$&quot;,&#10;  type: &quot;success&quot;&#10;})" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="switch" value="switch ($start$) {&#10;  case 0:&#10;    &#10;    break;&#10;  case 1:&#10;    &#10;    break;&#10;  case 2:&#10;    &#10;    break;&#10;  default:&#10;  &#10;    break;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="switch" value="switch ($start$) {&#10;  case 0:&#10;    &#10;    break;&#10;  case 1:&#10;    &#10;    break;&#10;  case 2:&#10;    &#10;    break;&#10;  default:&#10;  &#10;    break;&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -60,13 +60,12 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="submit" value="submitForm(formName) {&#10;  this.$refs[formName].validate((valid) =&gt; {&#10;    if (valid) {&#10;      $end$;&#10;    } else {&#10;      console.log(&quot;error submit!!&quot;);&#10;      return false;&#10;    }&#10;  });&#10;}," description="" toReformat="false" toShortenFQNames="true">
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="submit" value="submitForm(formName) {&#10;    this.$refs[formName].validate((valid) =&gt; {&#10;        if (valid) {&#10;            ;&#10;        } else {&#10;            console.log(&quot;error submit!!&quot;);&#10;            return false;&#10;        }&#10;    });&#10;}," description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="reset" value="this.$refs.$end$.resetFields();" description="" toReformat="false" toShortenFQNames="true">
+  <template name="reset" value="this.$refs.$end$.resetFields();" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
