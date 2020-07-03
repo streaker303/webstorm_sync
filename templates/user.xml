@@ -34,7 +34,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="set" value="setTimeout(() =&gt; {&#10;    $end$&#10;}, 0)" description="" toReformat="true" toShortenFQNames="true">
+  <template name="set" value="setTimeout(() =&gt; {&#10;  $end$&#10;}, 0)" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
@@ -46,7 +46,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="$message" value=" this.$message({&#10;    message: &quot;$end$&quot;,&#10;    type: &quot;success&quot;&#10;})" description="" toReformat="true" toShortenFQNames="true">
+  <template name="$message" value=" this.$message({&#10;  message: &quot;$end$&quot;,&#10;  type: &quot;success&quot;&#10;})" description="" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Vue" value="true" />
@@ -60,8 +60,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="submit" value="submitForm(formName) {&#10;    this.$refs[formName].validate((valid) =&gt; {&#10;        if (valid) {&#10;            $end$;&#10;      } else {&#10;        console.log(&quot;error submit!!&quot;);&#10;        return false;&#10;      }&#10;  });&#10;}," description="" toReformat="true" toShortenFQNames="true">
-    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="submit" value="submitForm(formName) {&#10;    this.$refs[formName].validate((valid) =&gt; {&#10;        if (valid) {&#10;            ;&#10;        } else {&#10;            console.log(&quot;error submit!!&quot;);&#10;            return false;&#10;        }&#10;    });&#10;}," description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Vue" value="true" />
     </context>
