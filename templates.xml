@@ -120,6 +120,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Vue" />
+          <option name="key" value="vc-direct" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Vue" />
           <option name="key" value="vdata" />
         </TemplateKey>
         <TemplateKey>
