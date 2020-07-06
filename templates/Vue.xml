@@ -161,7 +161,7 @@
     <variable name="variable" expression="" defaultValue="&quot;num&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="directives" value="directives: {&#10;  '$directiveName$': {&#10;  inserted(el, binding, vnode) {&#10;    el.style.$arg$ = binding.value.$arg$;&#10;    }&#10;  }&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="directives" value="directives: {&#10;  '$directiveName$': {&#10;  inserted(el, binding, vnode) {&#10;    el.style.$arg$ = binding.value.$arg$;&#10;    }&#10;  }&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="directiveName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arg" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
