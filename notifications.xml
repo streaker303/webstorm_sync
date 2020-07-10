@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration" systemNotifications="false">
+    <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Keymap" />
     <notification groupId="Material Theme Notifications" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
