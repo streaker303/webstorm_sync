@@ -28,7 +28,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="des" value="/**&#10;* @Description:&#10;* @author: WangJian&#10;* @Time: $date$&#10;*/" description="" toReformat="true" toShortenFQNames="true">
+  <template name="desc" value="/**&#10;* @Description:&#10;* @author: WangJian&#10;* @Time: $date$&#10;*/" description="" toReformat="true" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
@@ -69,6 +69,12 @@
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="des" value="/**&#10; * @param value&#10; * @return {boolean} &#10;*/" toReformat="true" toShortenFQNames="true">
+    <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="Vue" value="true" />
     </context>
