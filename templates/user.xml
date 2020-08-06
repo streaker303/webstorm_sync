@@ -73,7 +73,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="des" value="/**&#10; * @param value&#10; * @return {boolean} &#10;*/" description="" toReformat="true" toShortenFQNames="true">
+  <template name="des" value="/**&#10; * &#10; * @param value&#10; * @return {boolean} &#10;*/" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="Vue" value="true" />
