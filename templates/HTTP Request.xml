@@ -1,5 +1,5 @@
 <templateSet group="HTTP Request">
-  <template name="_pc" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;  &lt;meta charset=&quot;UTF-8&quot;&gt;&#10;  &lt;meta name='keywords' content='关键词'&gt;&#10;  &lt;meta name='description' content='描述的文字'&gt;&#10;  &lt;title&gt;Title&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="!pc" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;UTF-8&quot;&gt;&#10;    &lt;meta name=&quot;keywords&quot; content=&quot;关键词&quot;&gt;&#10;    &lt;meta name=&quot;description&quot; content=&quot;描述的文字&quot;&gt;&#10;    &lt;title&gt;Title&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
