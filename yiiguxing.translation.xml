@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variate" />
       <item value="topic" />
       <item value="操作日志" />
       <item value="once" />
@@ -50,13 +51,13 @@
       <item value="render Bullet" />
       <item value="assets Public Path" />
       <item value="series" />
-      <item value="legend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
+        <entry key="CHINESE" value="149" />
         <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="5" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
