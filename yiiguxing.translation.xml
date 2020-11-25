@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execution Listener Length" />
+      <item value="candidate Groups" />
+      <item value="candidate Users" />
+      <item value="assignee" />
+      <item value="execution Listener Dialog" />
+      <item value="Intermediate Throw Event" />
+      <item value="stage" />
+      <item value="process Panel" />
       <item value="additional Modules" />
       <item value="camunda Moddle Descriptor" />
       <item value="panel" />
@@ -43,19 +51,11 @@
       <item value="interceptors" />
       <item value="handle Exceed" />
       <item value="thumbs" />
-      <item value="八" />
-      <item value="8" />
-      <item value="response Type" />
-      <item value="export Stream Data" />
-      <item value="categories" />
-      <item value="channel temp 2" />
-      <item value="params" />
-      <item value="is-leaf" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
