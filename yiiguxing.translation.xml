@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="additional Modules" />
+      <item value="camunda Moddle Descriptor" />
+      <item value="panel" />
+      <item value="custom Palette Module" />
+      <item value="zoom" />
+      <item value="modeler" />
       <item value="categorys" />
       <item value="variate" />
       <item value="topic" />
@@ -45,24 +51,18 @@
       <item value="channel temp 2" />
       <item value="params" />
       <item value="is-leaf" />
-      <item value="enterprise Name" />
-      <item value="drill" />
-      <item value="defense" />
-      <item value="discipline" />
-      <item value="render Bullet" />
-      <item value="assets Public Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="2" />
-        <entry key="HINDI" value="1" />
+        <entry key="HINDI" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
