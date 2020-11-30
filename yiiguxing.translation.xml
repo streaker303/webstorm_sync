@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execution Listener" />
       <item value="extension Elements" />
       <item value="Assignable" />
       <item value="is Immediate" />
@@ -50,12 +51,11 @@
       <item value="forwards" />
       <item value="observe Hall" />
       <item value="subscribe" />
-      <item value="axis Tick" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
