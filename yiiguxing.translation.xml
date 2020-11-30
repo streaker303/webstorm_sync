@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extension Elements" />
+      <item value="Assignable" />
+      <item value="is Immediate" />
+      <item value="is Abstract" />
+      <item value="candidate Starter Groups" />
       <item value="modeling" />
       <item value="event Definitions" />
       <item value="candidate Starter Users" />
@@ -46,16 +51,11 @@
       <item value="observe Hall" />
       <item value="subscribe" />
       <item value="axis Tick" />
-      <item value="category" />
-      <item value="boundary Gap" />
-      <item value="reference" />
-      <item value="emphasis" />
-      <item value="symbol Offset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SWEDISH" value="1" />
