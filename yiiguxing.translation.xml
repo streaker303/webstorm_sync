@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sign Panel" />
       <item value="anchor Node" />
       <item value="batch Create Custom" />
       <item value="execution Listener" />
@@ -50,12 +51,11 @@
       <item value="poi Info" />
       <item value="abstract" />
       <item value="debounce" />
-      <item value="forwards" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="1" />
