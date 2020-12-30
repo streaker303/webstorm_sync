@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="super Class" />
       <item value="draw Custom Elements" />
       <item value="italic" />
       <item value="emphasis" />
@@ -50,12 +51,11 @@
       <item value="resistance Ratio" />
       <item value="navigation" />
       <item value="stop On Last Slide" />
-      <item value="decrease Cart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="1" />
