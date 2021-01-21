@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duration" />
+      <item value="decimals" />
       <item value="device Type List" />
       <item value="set Default Mount App" />
       <item value="strict Style Isolation" />
@@ -49,13 +51,11 @@
       <item value="custom Palette Module" />
       <item value="zoom" />
       <item value="modeler" />
-      <item value="categorys" />
-      <item value="variate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="200" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="1" />
