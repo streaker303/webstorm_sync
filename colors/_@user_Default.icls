@@ -4,7 +4,7 @@
     <property name="created">2019-08-24T19:51:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2021-01-09T20:01:39</property>
+    <property name="modified">2020-07-19T21:48:52</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -31,9 +31,6 @@
         <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="TEXT">
-      <value />
     </option>
   </attributes>
 </scheme>

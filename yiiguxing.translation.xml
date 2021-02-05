@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equiv" />
+      <item value="http-equiv" />
+      <item value="reactive" />
+      <item value="spare" />
+      <item value="duration" />
+      <item value="decimals" />
+      <item value="device Type List" />
+      <item value="set Default Mount App" />
+      <item value="strict Style Isolation" />
+      <item value="calculable" />
+      <item value="descending" />
+      <item value="state Dialog" />
+      <item value="coordinate System" />
+      <item value="proportion" />
+      <item value="geo Coord" />
+      <item value="convert Data" />
+      <item value="keyboard Move" />
+      <item value="super Class" />
+      <item value="draw Custom Elements" />
+      <item value="italic" />
+      <item value="emphasis" />
+      <item value="sign Panel" />
       <item value="anchor Node" />
       <item value="batch Create Custom" />
       <item value="execution Listener" />
@@ -29,33 +51,11 @@
       <item value="process Panel" />
       <item value="additional Modules" />
       <item value="camunda Moddle Descriptor" />
-      <item value="panel" />
-      <item value="custom Palette Module" />
-      <item value="zoom" />
-      <item value="modeler" />
-      <item value="categorys" />
-      <item value="variate" />
-      <item value="topic" />
-      <item value="操作日志" />
-      <item value="once" />
-      <item value="cache Busting" />
-      <item value="error Overlay" />
-      <item value="errorOverlay: true," />
-      <item value="notify On Errors" />
-      <item value="device Form" />
-      <item value="resistance Ratio" />
-      <item value="navigation" />
-      <item value="stop On Last Slide" />
-      <item value="decrease Cart" />
-      <item value="poi Info" />
-      <item value="abstract" />
-      <item value="debounce" />
-      <item value="forwards" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="1" />
@@ -67,5 +67,8 @@
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1612404636332" />
   </component>
 </application>
