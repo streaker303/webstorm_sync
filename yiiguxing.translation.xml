@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="broken Line" />
       <item value="equiv" />
       <item value="http-equiv" />
       <item value="reactive" />
@@ -50,12 +51,11 @@
       <item value="stage" />
       <item value="process Panel" />
       <item value="additional Modules" />
-      <item value="camunda Moddle Descriptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612404636332" />
+    <option name="lastTrimTime" value="1615804729561" />
   </component>
 </application>
