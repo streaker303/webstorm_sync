@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inverse" />
+      <item value="axis Label" />
       <item value="broken Line" />
       <item value="equiv" />
       <item value="http-equiv" />
@@ -49,13 +51,11 @@
       <item value="assignee" />
       <item value="execution Listener Dialog" />
       <item value="stage" />
-      <item value="process Panel" />
-      <item value="additional Modules" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="1" />
