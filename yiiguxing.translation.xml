@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="default Stroke Color" />
       <item value="retrieval" />
       <item value="crumbs-tip" />
       <item value="inverse" />
@@ -50,12 +51,11 @@
       <item value="execution Listener Length" />
       <item value="candidate Groups" />
       <item value="candidate Users" />
-      <item value="assignee" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="1" />
