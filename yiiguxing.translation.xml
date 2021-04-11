@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="系统出错了" />
+      <item value="展开查看详情" />
       <item value="Audit" />
       <item value="guide Path" />
       <item value="ensure" />
@@ -49,13 +51,11 @@
       <item value="intermediate" />
       <item value="participant-expanded" />
       <item value="Data Object Reference" />
-      <item value="Intermediate Throw Event" />
-      <item value="stroke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="216" />
         <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="1" />
         <entry key="JAPANESE" value="1" />
