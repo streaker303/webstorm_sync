@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="with Credentials" />
       <item value="orient" />
       <item value="orien" />
       <item value="高" />
@@ -50,12 +51,11 @@
       <item value="is Immediate" />
       <item value="is Abstract" />
       <item value="candidate Starter Groups" />
-      <item value="modeling" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="FRENCH" value="6" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617782659944" />
+    <option name="lastTrimTime" value="1618904818085" />
   </component>
 </application>
