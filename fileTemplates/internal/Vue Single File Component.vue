@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "${COMPONENT_NAME}"
+    name: "${COMPONENT_NAME}"
 }
 </script>
 
