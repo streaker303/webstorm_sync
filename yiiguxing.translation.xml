@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="production Gzip" />
       <item value="semi" />
       <item value="process Instance Id" />
       <item value="with Credentials" />
@@ -50,12 +51,11 @@
       <item value="execution Listener" />
       <item value="extension Elements" />
       <item value="Assignable" />
-      <item value="is Immediate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="FRENCH" value="6" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
