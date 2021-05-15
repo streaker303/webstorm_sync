@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dependencies" />
+      <item value="dev Dependencies" />
+      <item value="production Gzip Extensions" />
+      <item value="production Gzip" />
       <item value="semi" />
       <item value="process Instance Id" />
       <item value="with Credentials" />
@@ -47,15 +51,11 @@
       <item value="sign Panel" />
       <item value="anchor Node" />
       <item value="batch Create Custom" />
-      <item value="execution Listener" />
-      <item value="extension Elements" />
-      <item value="Assignable" />
-      <item value="is Immediate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="FRENCH" value="6" />
         <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="1" />
